@@ -11,4 +11,4 @@
 Telegram bot - https://t.me/nvaqti_bot
 Bot aiogram python frameworki orqali yaratilgan......
 
-@uz_python  🦖
+https://t.me/uz_python  🦖

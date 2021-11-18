@@ -8,6 +8,7 @@ aiogram = "~=2.14"
 environs = "~=8.0.0"
 requests = "*"
 hijri-converter = "*"
+pillow = "*"
 
 [dev-packages]
 

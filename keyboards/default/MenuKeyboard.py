@@ -4,10 +4,12 @@ menu = ReplyKeyboardMarkup(
     keyboard = [
         [
             KeyboardButton(text='Andijon'),
-            KeyboardButton(text='Toshkent'),
+            KeyboardButton(text='Margilan'),
             
-        ],[KeyboardButton(text='Fargona'),
-            KeyboardButton(text='Namangan')],
+        ],[KeyboardButton(text='Fergana'),
+            KeyboardButton(text='Tashkent')],
+            [KeyboardButton(text='Namangan'),
+            KeyboardButton(text='Samarkand')],
     ],
     resize_keyboard=True
 )

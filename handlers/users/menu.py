@@ -28,7 +28,7 @@ def namoz_vakti(city):
     Shom=   str(data['results']['datetime'][0]['times']['Maghrib'])
     Xufton= str(data['results']['datetime'][0]['times']['Isha'])
 
-    result=('☪️ Andijon namoz vaqtlari:\n'+
+    result=(f'☪️ {city} namoz vaqtlari:\n'+
     '📆 gregorian:  '+str(my_date)+
     '\n📆 hijri:  '+str(hijri_date)+
     '\n➖➖➖➖➖➖➖➖\n'+
